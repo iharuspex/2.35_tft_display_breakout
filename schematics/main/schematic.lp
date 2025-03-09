@@ -509,6 +509,9 @@
    (from (junction cfae8fe5-ebf6-41ca-ac17-73ceb3eeb418))
    (to (junction 25576019-ab0c-4825-9661-716f2b6c45e0))
   )
+  (label 6e8811dc-2906-41da-b199-eec9e8a49ca3
+   (position 121.92 86.36) (rotation 0.0) (mirror false)
+  )
  )
  (netsegment 76bcf2fd-3533-454e-a418-7bd8a24e4251
   (net 707f266f-5c51-4c30-9e62-898412481d5e)

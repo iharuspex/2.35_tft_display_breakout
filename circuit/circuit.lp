@@ -42,7 +42,7 @@
  (net 9fca59a4-7dbe-4a10-bd4f-af02415a8390 (auto false) (name "GND")
   (netclass d24301b0-574e-4a06-aba5-c2ac4895f50b)
  )
- (net a20014c5-6ef1-4318-b8b5-96e320ce067b (auto true) (name "N3")
+ (net a20014c5-6ef1-4318-b8b5-96e320ce067b (auto false) (name "LEDK")
   (netclass d24301b0-574e-4a06-aba5-c2ac4895f50b)
  )
  (net abc50874-e177-40bb-8b6f-53f25645b576 (auto false) (name "RST")
@@ -80,6 +80,9 @@
   (name "R2") (value "{{RESISTANCE}}")
   (lock_assembly false)
   (attribute "RESISTANCE" (type resistance) (unit kiloohm) (value "1"))
+  (device 078650d3-483c-4b9e-a848-b14f1aad2edc
+   (variant 4f8d19b3-2a49-4f4b-95a4-73bf732b86f5)
+  )
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net 6a4b2a1f-3d73-43c8-843c-62e3c2142d39))
   (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net 911f879f-976d-40fd-9481-3e9a80d116e7))
  )
@@ -163,6 +166,9 @@
   (lib_variant 7618bbfa-a167-4432-a793-b90f1ebd649d)
   (name "IC2") (value "{{MPN or DEVICE or COMPONENT}}")
   (lock_assembly false)
+  (device 980f055d-a95c-4315-b87a-3603e285054b
+   (variant 4f8d19b3-2a49-4f4b-95a4-73bf732b86f5)
+  )
   (signal 0bb86923-c29a-496b-a574-48ae604a21a1 (net 54347703-e6f7-4622-a6e2-1681822c12a1))
   (signal 0d47231f-5b30-4b33-abbb-3da9cc920528 (net 4044a018-1614-448f-9a3f-4f7f9738b6bc))
   (signal 11139323-60df-4e42-9cfe-d0af19f0d2db (net 4d6ccb60-8026-4f7e-8a54-3c18dd54b3ba))
@@ -187,6 +193,9 @@
   (name "C1") (value "{{CAPACITANCE}}")
   (lock_assembly false)
   (attribute "CAPACITANCE" (type capacitance) (unit microfarad) (value "1"))
+  (device c139e505-592b-46ba-bdf2-acb7383ea0cd
+   (variant 4f8d19b3-2a49-4f4b-95a4-73bf732b86f5)
+  )
   (signal 1c1c7abc-7b40-4f92-b533-f65604644db7 (net 4c00a142-fcc4-42a4-981c-a6c5d0aa5da9))
   (signal 6d776f4d-2a7c-4128-a98a-dbb1dd861411 (net 9fca59a4-7dbe-4a10-bd4f-af02415a8390))
  )
@@ -265,6 +274,9 @@
   (name "R1") (value "{{RESISTANCE}}")
   (lock_assembly false)
   (attribute "RESISTANCE" (type resistance) (unit ohm) (value "22"))
+  (device 078650d3-483c-4b9e-a848-b14f1aad2edc
+   (variant 4f8d19b3-2a49-4f4b-95a4-73bf732b86f5)
+  )
   (signal 3452d36e-1ce8-4b7c-8e5b-90c2e4929ed8 (net a20014c5-6ef1-4318-b8b5-96e320ce067b))
   (signal ad623f98-9e73-49c3-9404-f7cfa99d17cd (net 13fe2e67-be5a-4650-9651-ab0e92f13f5c))
  )
@@ -274,6 +286,9 @@
   (name "C2") (value "{{CAPACITANCE}}")
   (lock_assembly false)
   (attribute "CAPACITANCE" (type capacitance) (unit microfarad) (value "1"))
+  (device c139e505-592b-46ba-bdf2-acb7383ea0cd
+   (variant 4f8d19b3-2a49-4f4b-95a4-73bf732b86f5)
+  )
   (signal 1c1c7abc-7b40-4f92-b533-f65604644db7 (net 4044a018-1614-448f-9a3f-4f7f9738b6bc))
   (signal 6d776f4d-2a7c-4128-a98a-dbb1dd861411 (net 9fca59a4-7dbe-4a10-bd4f-af02415a8390))
  )
