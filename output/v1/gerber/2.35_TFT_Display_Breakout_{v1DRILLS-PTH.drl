@@ -1,0 +1,36 @@
+M48
+; #@! TF.GenerationSoftware,LibrePCB,LibrePCB,1.2.0
+; #@! TF.CreationDate,2025-03-23T20:27:52
+; #@! TF.ProjectId,2.35" TFT Display Breakout,2d7378a2-86a6-4676-ae60-d25c5b1dbf0f,v1
+; #@! TF.Part,Single
+; #@! TF.SameCoordinates
+; #@! TF.FileFunction,Plated,1,2,PTH
+FMAT,2
+METRIC,TZ
+; #@! TA.AperFunction,ViaDrill
+T1C0.3
+; #@! TA.AperFunction,ComponentDrill
+T2C1.1
+%
+G90
+G05
+M71
+T1
+X32.55Y10.1
+X25.8Y9.3
+X29.4Y7.2
+X32.55Y12.6
+X22.9Y8.1
+T2
+X31.23Y2.5
+X28.69Y2.5
+X26.15Y2.5
+X33.77Y2.5
+X38.85Y2.5
+X43.93Y2.5
+X36.31Y2.5
+X21.07Y2.5
+X23.61Y2.5
+X41.39Y2.5
+T0
+M30

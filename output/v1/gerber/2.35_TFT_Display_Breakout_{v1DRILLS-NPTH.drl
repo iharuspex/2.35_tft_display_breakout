@@ -1,0 +1,15 @@
+M48
+; #@! TF.GenerationSoftware,LibrePCB,LibrePCB,1.2.0
+; #@! TF.CreationDate,2025-03-23T20:27:52
+; #@! TF.ProjectId,2.35" TFT Display Breakout,2d7378a2-86a6-4676-ae60-d25c5b1dbf0f,v1
+; #@! TF.Part,Single
+; #@! TF.SameCoordinates
+; #@! TF.FileFunction,NonPlated,1,2,NPTH
+FMAT,2
+METRIC,TZ
+%
+G90
+G05
+M71
+T0
+M30
