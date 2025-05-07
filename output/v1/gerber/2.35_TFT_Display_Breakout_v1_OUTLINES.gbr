@@ -1,6 +1,6 @@
 G04 --- HEADER BEGIN --- *
-G04 #@! TF.GenerationSoftware,LibrePCB,LibrePCB,1.2.0*
-G04 #@! TF.CreationDate,2025-03-23T20:27:52*
+G04 #@! TF.GenerationSoftware,LibrePCB,LibrePCB,1.3.0*
+G04 #@! TF.CreationDate,2025-05-07T13:29:34*
 G04 #@! TF.ProjectId,2.35" TFT Display Breakout,2d7378a2-86a6-4676-ae60-d25c5b1dbf0f,v1*
 G04 #@! TF.Part,Single*
 G04 #@! TF.SameCoordinates*
@@ -23,5 +23,5 @@ X65000000Y25000000D01*
 X0Y25000000D01*
 X0Y0D01*
 G04 --- BOARD END --- *
-G04 #@! TF.MD5,9bb8ce67ea03de0b525c11a4fd8269cc*
+G04 #@! TF.MD5,168bd50f9c34391d4b743652fa1cdb22*
 M02*
